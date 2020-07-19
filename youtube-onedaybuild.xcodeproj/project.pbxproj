@@ -13,6 +13,10 @@
 		E240F9BF24BEFB1D00DB3D31 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E240F9BD24BEFB1D00DB3D31 /* Main.storyboard */; };
 		E240F9C124BEFB2000DB3D31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E240F9C024BEFB2000DB3D31 /* Assets.xcassets */; };
 		E240F9C424BEFB2000DB3D31 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E240F9C224BEFB2000DB3D31 /* LaunchScreen.storyboard */; };
+		E240F9CC24BF063500DB3D31 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E240F9CB24BF063500DB3D31 /* Constants.swift */; };
+		E240F9CE24BF0A6600DB3D31 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = E240F9CD24BF0A6600DB3D31 /* Video.swift */; };
+		E240F9D024BF0AEF00DB3D31 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = E240F9CF24BF0AEF00DB3D31 /* Model.swift */; };
+		E240F9D224C44CAC00DB3D31 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = E240F9D124C44CAC00DB3D31 /* Response.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		E240F9C024BEFB2000DB3D31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E240F9C324BEFB2000DB3D31 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E240F9C524BEFB2000DB3D31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E240F9CB24BF063500DB3D31 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		E240F9CD24BF0A6600DB3D31 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		E240F9CF24BF0AEF00DB3D31 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		E240F9D124C44CAC00DB3D31 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +68,10 @@
 				E240F9B924BEFB1D00DB3D31 /* SceneDelegate.swift */,
 				E240F9BB24BEFB1D00DB3D31 /* ViewController.swift */,
 				E240F9BD24BEFB1D00DB3D31 /* Main.storyboard */,
+				E240F9CB24BF063500DB3D31 /* Constants.swift */,
+				E240F9CD24BF0A6600DB3D31 /* Video.swift */,
+				E240F9CF24BF0AEF00DB3D31 /* Model.swift */,
+				E240F9D124C44CAC00DB3D31 /* Response.swift */,
 				E240F9C024BEFB2000DB3D31 /* Assets.xcassets */,
 				E240F9C224BEFB2000DB3D31 /* LaunchScreen.storyboard */,
 				E240F9C524BEFB2000DB3D31 /* Info.plist */,
@@ -141,6 +153,10 @@
 				E240F9BC24BEFB1D00DB3D31 /* ViewController.swift in Sources */,
 				E240F9B824BEFB1D00DB3D31 /* AppDelegate.swift in Sources */,
 				E240F9BA24BEFB1D00DB3D31 /* SceneDelegate.swift in Sources */,
+				E240F9D024BF0AEF00DB3D31 /* Model.swift in Sources */,
+				E240F9CC24BF063500DB3D31 /* Constants.swift in Sources */,
+				E240F9CE24BF0A6600DB3D31 /* Video.swift in Sources */,
+				E240F9D224C44CAC00DB3D31 /* Response.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
